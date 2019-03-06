@@ -1,0 +1,5 @@
+<input type="text" placeholder="this is placeholder text">
+
+Create a Form Element
+<form action="/submit-cat-photo"><input></input></form>
+
