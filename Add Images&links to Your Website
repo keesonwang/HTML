@@ -1,0 +1,9 @@
+<img src="https://www.your-image-source.com/your-image.jpg">
+<a href="https://freecodecamp.org">this links to freecodecamp.org</a>
+
+dead link
+href=#
+
+turn an image to link
+<a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera."></a>
+
