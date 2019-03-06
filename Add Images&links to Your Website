@@ -8,3 +8,5 @@ turn an image to link
 <a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera."></a>
 
 <button> </button>
+
+<input type="text" required>
